@@ -1,0 +1,20 @@
+{
+    "index": "👋 Introduction",
+    "whatwedo": "💡 What We Do",
+    "ourinitiatives": "✨ Our Initiatives",
+    "ourevents": "🥳 Our Events",
+    "tech_projects": "🤖 Tech Projects",
+    "achievements": "🏆 Achievements",
+    "resources": "📖 Resources",
+    "gallery": "📸 Gallery",
+    "about": {
+        "title": "The Team",
+        "type": "page"
+    },
+    "contact": {
+        "title": "Contact Us",
+        "type": "page",
+        "href": "https://gdsciare.club",
+        "newWindow": true
+    }
+}
