@@ -2,6 +2,9 @@ const withNextra = require("nextra")({
     theme: "nextra-theme-docs",
     themeConfig: "./theme.config.tsx",
     staticImage: true,
+    flexsearch: {
+        codeblock: true,
+    },
     images: {
         remotePatterns: [
             {
@@ -10,7 +13,7 @@ const withNextra = require("nextra")({
             },
         ],
     },
-    font: false
+    font: false,
 });
 
 module.exports = withNextra();
