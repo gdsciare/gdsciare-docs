@@ -3,8 +3,9 @@ const withNextra = require("nextra")({
     themeConfig: "./theme.config.tsx",
     staticImage: true,
     flexsearch: {
-        codeblock: true,
+        codeblocks: true,
     },
+    defaultShowCopyCode: true,
     images: {
         remotePatterns: [
             {

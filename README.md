@@ -3,7 +3,7 @@
 	<img width="400" src="https://user-images.githubusercontent.com/81429137/197771787-7a37fc03-4da8-44cf-afa6-b9435f92bdb1.png#gh-light-mode-only" alt="GDSC IARE"/>
 </a>
 	<h1 align="center"> GDSC IARE Open Source Platform </h2>
-	<h4 align="center"> Welcome to GDSC IARE Community. We're building this Open Source Platform as a one-stop centre to know everything about GDSC IARE. <h4>
+	<h4 align="center"> Welcome to GDSC IARE Community. We're building this Open Source Platform as a one-stop centre to know everything about GDSC IARE. This is the Github Repo hosting the internal code for GDSC IARE Open Source Platform. The production site is deployed using Vercel SSG.<h4>
 </p>
 
 ---
@@ -17,8 +17,8 @@
 
 ## Project Features
 
--   [ ] Highly customizeable documentation platform
--   [ ] Built on Nextra Static Site Generation Framework
+-   [ ] Highly customizeable and responsive documentation platform
+-   [ ] Built on Next JS Static Site Generation Framework
 -   [ ] Supports Lazy Loading and fast performance on low bandwidth networks
 -   [ ] Complete backend storage managed using Github
 
@@ -45,8 +45,7 @@ npm run dev
 
 ## Known Issues
 
--   [ ] Yet to add pleasing images
--   [ ] Need to simplify data fetching functions
+-   [ ] Flexsearch not integrating properly
 
 ## Contributors
 
@@ -57,7 +56,7 @@ npm run dev
       <br>
       <br>
 		<p align="center">
-			<img src = "https://avatars.githubusercontent.com/u/81429137?v=4" width="150" height="150" alt="Your Name Here (Keep your Image Pic in img url">
+			<img src = "https://avatars.githubusercontent.com/u/81429137?v=4" width="150" height="150" alt="Ujjwal Shivacharya">
 		</p>
 			<p align="center">
 				<a href = "https://github.com/ujjwalshiva">
