@@ -39,8 +39,8 @@ const config: DocsThemeConfig = {
   banner: {
     key: '1.0-release',
     text: (
-      <a href="https://gdsciare-docs.vercel.app" target="_blank">
-        🎉 Our GDSC IARE Open Source Platform is now Live! Read more →
+      <a href="https://instagram.com/gdsciare" target="_blank">
+        🎉 Check out our amazing posts and fun reels on Instagram →
       </a>
     )
   },
